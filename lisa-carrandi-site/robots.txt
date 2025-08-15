@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lcarrandi.github.io/sitemap.xml
